@@ -1,0 +1,16 @@
+/*Selector{
+	Property: Value;
+}*/
+
+body{
+	background-image: url(image.jpg);
+	background-size: cover;
+	}
+h1{
+	color:blue;
+	text-align:center;
+	border: 5px solid purple;
+}
+li{
+	color:red;
+}
